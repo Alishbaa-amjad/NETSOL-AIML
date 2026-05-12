@@ -83,7 +83,12 @@ week-9/
 * Installation & Setup
 * Tensors — The Building Blocks
 * Tensor Operations & Math
-* 
+* Autograd — Automatic Differentiation
+* Building Neural Networks
+* Training on Real Data
+* Evaluation & Metrics
+* Saving & Loading Models
+* Practice Tasks
 
 ---
 
