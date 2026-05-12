@@ -82,6 +82,7 @@ week-9/
 
 * Installation & Setup
 * Tensors — The Building Blocks
+* Tensor Operations & Math
 * 
 
 ---
